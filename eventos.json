@@ -1,0 +1,92 @@
+[
+  {
+    "id": "evento-expo-osaka",
+    "title": "Expo 2025 Osaka",
+    "description": "It is taking place for six months from 13 April to 13 October 2025.[1] This is the second time that Osaka has hosted a World Expo, having previously hosted Expo 1970",
+    "location": "Osaka, Japan",
+    "datetime": "2025-04-13T19:00:00Z",
+    "imageUrl": "https://cdn.tatlerasia.com/tatlerasia/i/2025/04/10101155-screenshot-2025-04-09-at-100650-am_cover_1168x730.jpg",
+    "participants": []
+  },
+  {
+    "id": "evento-maratona-lisboa",
+    "title": "Maratona de Lisboa",
+    "description": "Corrida anual pelas ruas históricas de Lisboa com atletas de todo o mundo.",
+    "location": "Lisboa",
+    "datetime": "2025-10-05T08:00:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1528667819581-ca7e29e772bc?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8&ixlib=rb-4.0.3&q=60&w=3000",
+    "participants": []
+  },
+  {
+    "id": "jazz-peniche",
+    "title": "Jazz ao Pôr do Sol",
+    "description": "Concerto de jazz ao ar livre com vista para o mar em Peniche.",
+    "location": "Peniche",
+    "datetime": "2025-07-20T20:30:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=450",
+    "participants": []
+  },
+  {
+    "id": "evento-surf-peniche",
+    "title": "Torneio de Surf",
+    "description": "Competição internacional de surf na praia dos Supertubos.",
+    "location": "Peniche",
+    "datetime": "2025-09-15T10:00:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1699883814440-cd55469828fa?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "participants": []
+  },
+  {
+    "id": "evento-concerto-braga",
+    "title": "Concerto de Verão",
+    "description": "Espetáculo com artistas pop no estádio municipal de Braga.",
+    "location": "Braga",
+    "datetime": "2025-08-25T21:00:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=450",
+    "participants": []
+  },
+  {
+    "id": "evento-futebol-solidário",
+    "title": "Futebol Solidário",
+    "description": "Jogo de futebol entre celebridades para angariar fundos para instituições.",
+    "location": "Porto",
+    "datetime": "2025-07-30T18:00:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=450",
+    "participants": []
+  },
+  {
+    "id": "evento-eletronica-albufeira",
+    "title": "Festival de Música Eletrónica",
+    "description": "Três dias de música eletrónica com DJs internacionais em Albufeira.",
+    "location": "Albufeira",
+    "datetime": "2025-08-15T22:00:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=450",
+    "participants": []
+  },
+  {
+    "id": "evento-noturna-coimbra",
+    "title": "Corrida Noturna",
+    "description": "Evento desportivo noturno com percurso iluminado em Coimbra.",
+    "location": "Coimbra",
+    "datetime": "2025-09-10T21:30:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1639843093167-ed40b985c01e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "participants": []
+  },
+  {
+    "id": "evento-indie-evora",
+    "title": "Festival Indie",
+    "description": "Festival de música alternativa com bandas emergentes em Évora.",
+    "location": "Évora",
+    "datetime": "2025-08-05T17:00:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=450",
+    "participants": []
+  },
+  {
+    "id": "evento-tenis-cascais",
+    "title": "Open de Ténis",
+    "description": "Torneio de ténis com os melhores atletas nacionais em Cascais.",
+    "location": "Cascais",
+    "datetime": "2025-09-20T14:00:00Z",
+    "imageUrl": "https://images.unsplash.com/photo-1738744804754-66d912d2c70f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "participants": []
+  }
+]
